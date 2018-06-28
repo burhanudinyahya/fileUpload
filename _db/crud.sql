@@ -38,9 +38,10 @@ CREATE TABLE IF NOT EXISTS `tbl_docs` (
 --
 
 INSERT INTO `tbl_docs` (`docID`, `docType`, `docFile`) VALUES
-(1, 'KTP', '380289.jpg'),
-(2, 'SIM', '380289.jpg'),
-(3, 'Paspor', '549279.jpg');
+(1, 'KTP', '202367.jpg'),
+(2, 'SIM', '250321.jpg'),
+(3, 'SIM', '786934.jpg'),
+(4, 'KTP', '475036.jpg');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
